@@ -1,0 +1,17 @@
+.service-title {
+  font-size: 32px;
+  color: cadetblue;
+}
+.descripttion {
+  color: gray;
+}
+
+.service {
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
